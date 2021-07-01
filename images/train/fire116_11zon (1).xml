@@ -1,0 +1,38 @@
+<annotation>
+	<folder>fire_new</folder>
+	<filename>fire116_11zon (1).jpg</filename>
+	<path>C:\Users\HP\Desktop\fire_new\fire116_11zon (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>240</ymin>
+			<xmax>390</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>85</ymin>
+			<xmax>550</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>
