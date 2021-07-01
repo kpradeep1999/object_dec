@@ -1,0 +1,43 @@
+<annotation>
+    <folder>untitled folder 20</folder>
+    <filename>helmet5.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>helmet</name>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>328</x1>
+            <y1>265</y1>
+        </polygon>
+        <bndbox>
+            <xmin>328</xmin>
+            <ymin>265</ymin>
+            <xmax>328</xmax>
+            <ymax>265</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>helmet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>219</xmin>
+            <ymin>255</ymin>
+            <xmax>263</xmax>
+            <ymax>290</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>helmet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>194</xmin>
+            <ymin>263</ymin>
+            <xmax>217</xmax>
+            <ymax>291</ymax>
+        </bndbox>
+    </object>
+</annotation>

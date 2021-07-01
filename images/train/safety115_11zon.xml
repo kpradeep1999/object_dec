@@ -1,0 +1,19 @@
+<annotation>
+    <folder>untitled folder 10</folder>
+    <filename>safety115_11zon.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>helmet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>326</xmin>
+            <ymin>27</ymin>
+            <xmax>480</xmax>
+            <ymax>128</ymax>
+        </bndbox>
+    </object>
+</annotation>
