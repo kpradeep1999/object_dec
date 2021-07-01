@@ -1,0 +1,29 @@
+<annotation>
+    <folder>untitled folder 22</folder>
+    <filename>safety227_11zon.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>helmet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>468</xmin>
+            <ymin>160</ymin>
+            <xmax>586</xmax>
+            <ymax>404</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>433</xmin>
+            <ymin>408</ymin>
+            <xmax>580</xmax>
+            <ymax>600</ymax>
+        </bndbox>
+    </object>
+</annotation>
